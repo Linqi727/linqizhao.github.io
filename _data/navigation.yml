@@ -1,9 +1,0 @@
-main:
-- title: "Home"
-url: "/"
-- title: "Blog"
-url: "/page1/" # 首页即博客列表；这里指向分页第 1 页
-- title: "Project"
-url: "/projects/"
-- title: "About"
-url: "/about/"
