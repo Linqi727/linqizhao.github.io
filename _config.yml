@@ -9,7 +9,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # site foundation
 locale: en-UK
-repository: yourusername/yourrepo
+repository: Linqi727/linqizhao.github.io
 
 # navigation data file
 collections:
