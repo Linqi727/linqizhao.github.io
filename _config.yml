@@ -1,7 +1,7 @@
 title: "你的站点标题"
 description: "博客 · 科研进展 · 项目"
-url: "http://127.0.0.1:4000"
-baseurl: ""
+url: "https://linqi727.github.io"
+baseurl: "/linqizhao.github.io"
 
 # 使用本地主题（替代 remote_theme）
 remote_theme: "mmistakes/minimal-mistakes"
