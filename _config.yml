@@ -4,7 +4,7 @@ url: "http://127.0.0.1:4000"
 baseurl: ""
 
 # 使用本地主题（替代 remote_theme）
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 
 locale: zh-CN
 repository: yourusername/yourrepo
