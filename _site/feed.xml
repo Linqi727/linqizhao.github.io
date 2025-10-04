@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T17:11:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">你的站点标题</title><subtitle>博客 · 科研进展 · 项目</subtitle><author><name>你的名字</name></author><entry><title type="html">Hello, Minimal Mistakes</title><link href="http://localhost:4000/blog/2025/10/04/hello-world.html" rel="alternate" type="text/html" title="Hello, Minimal Mistakes" /><published>2025-10-04T10:00:00+01:00</published><updated>2025-10-04T10:00:00+01:00</updated><id>http://localhost:4000/blog/2025/10/04/hello-world</id><content type="html" xml:base="http://localhost:4000/blog/2025/10/04/hello-world.html"><![CDATA[<p>这是我的第一篇文章。内容包括：</p>
+
+<ul>
+  <li>为什么要做个人站</li>
+  <li>我会在这里记录什么：博客、科研进度、项目</li>
+  <li>站点结构与未来计划</li>
+</ul>
+
+<p>欢迎在下方评论区讨论（如果你启用了 Giscus）。</p>]]></content><author><name>你的名字</name></author><category term="blog" /><category term="start" /><category term="notes" /><summary type="html"><![CDATA[这是我的第一篇文章。内容包括：]]></summary></entry></feed>
