@@ -5,9 +5,6 @@ date: 2025-10-05 12:00:00 +0800
 categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
-header:
-  image: /assets/Blog1.jpg
-  caption: "Figure 11 from our CHI 2025 paper."
 ---
 
 I am thrilled to share that our paper  
@@ -54,7 +51,7 @@ It also demonstrates the potential of **physiological sensing (fNIRS)** to infor
 ---
 
 ## 📸 Figure Highlight
-![Figure 11](/assets/Blog1.jpg)  
+<img src="/assets/Blog1.jpg" alt="Figure 11" style="max-width:100%; height:auto; border-radius:8px;">
 *Timeline correlations between mental workload and recovery experiences.*
 
 ---
