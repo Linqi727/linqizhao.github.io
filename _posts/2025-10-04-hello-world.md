@@ -5,11 +5,13 @@ date: 2025-10-05 12:00:00 +0800
 categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
+header:
+  teaser: /assets/Blog1.jpg
 ---
 
 I am thrilled to share that our paper  
 **“Work Hard, Play Harder: Intense Games Enable Recovery from High Mental Workload Tasks”**  
-has received an **Honorable Mention Award 🏅** at **CHI 2025** — the premier international conference on Human–Computer Interaction, held this year in Yokohama, Japan 🇯🇵.
+has received an **Honorable Mention Award 🏅** at **CHI 2025** — the premier international conference on Human–Computer Interaction, held this year in Yokohama, Japan.
 
 ---
 
