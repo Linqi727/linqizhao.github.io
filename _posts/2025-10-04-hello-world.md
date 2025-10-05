@@ -5,8 +5,7 @@ date: 2025-10-05 12:00:00 +0800
 categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
-header:
-  teaser: "{{ '/assets/Blog1-teaser.jpg' | relative_url }}"
+
 excerpt: |
   <img src="{{ '/assets/Blog1-teaser.jpg' | relative_url }}" alt="Figure 11"
        style="max-width:100%; height:auto; border-radius:8px; margin-bottom:8px;">
