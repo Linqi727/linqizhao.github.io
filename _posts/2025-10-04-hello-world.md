@@ -1,22 +1,70 @@
 ---
 layout: single
-title: "Hello, Minimal Mistakes"
-date: 2025-10-04 10:00:00 +0100
-categories: [blog]
-tags: [start, notes]
-# 开启目录（可选）
-toc: true
-# 文章封面（可选）
+title: "CHI 2025 HONORABLE MENTION 🏅"
+date: 2025-10-05 12:00:00 +0800
+categories: [research, awards]
+tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
+author_profile: true
 header:
-overlay_color: "#000"
-overlay_filter: 0.1
-caption: "First post"
+  image: /assets/Blog1.jpg
+  caption: "Figure 11 from our CHI 2025 paper."
 ---
 
-这是我的第一篇文章。内容包括：
+I am thrilled to share that our paper  
+**“Work Hard, Play Harder: Intense Games Enable Recovery from High Mental Workload Tasks”**  
+has received an **Honorable Mention Award 🏅** at **CHI 2025** — the premier international conference on Human–Computer Interaction, held this year in Yokohama, Japan 🇯🇵.
 
-- 为什么要做个人站
-- 我会在这里记录什么：博客、科研进度、项目
-- 站点结构与未来计划
+---
 
-欢迎在下方评论区讨论（如果你启用了 Giscus）。
+## 📄 Paper at a Glance
+- **Authors:** Linqi Zhao, Michael Thomas Knierim, Max L. Wilson, Patrick Dickinson, Horia A. Maior  
+- **Conference:** CHI 2025 — ACM Conference on Human Factors in Computing Systems  
+- **DOI:** [10.1145/3706598.3713915](https://doi.org/10.1145/3706598.3713915)  
+- **Affiliations:** University of Nottingham, Karlsruhe Institute of Technology, University of Lincoln
+
+---
+
+## 🧠 Research Motivation
+Mental workload (MWL) plays a key role in how people recover after demanding tasks.  
+While traditional theories suggest alternating between high and low workload for optimal recovery, **our work investigates whether mentally demanding games can actually *enhance* recovery** after mentally intensive tasks.
+
+---
+
+## 🧪 Study Design
+We conducted a **2×2 factorial lab study** with 40 participants.  
+- **Work task:** Audio transcription at high vs. low mental demand  
+- **Recovery task:** Classic Pac-Man 🎮 with calibrated difficulty levels  
+- **Measures:** Self-report (NASA-TLX, REQ, ADACL) + **fNIRS** physiological data from the prefrontal cortex
+
+Participants alternated between high/low work tasks and high/low gameplay demand, while we continuously measured their brain activity and recovery experiences.
+
+---
+
+## 🌟 Key Findings
+- **High-demand games can effectively support post-work recovery** — participants showed greater psychological detachment and mastery compared to low-demand games.  
+- fNIRS data revealed **distinct hemodynamic patterns** in the DLPFC and OFC during work vs. gameplay, giving new physiological insights into recovery mechanisms.  
+- Contrary to conventional expectations, **high MWL work increased energetic arousal**, highlighting the complex relationship between mental effort and recovery needs.
+
+---
+
+## 🏆 Why It Matters
+This study contributes to a better understanding of how mentally demanding leisure activities (like challenging games) can **restore cognitive resources** and help people recover more effectively.  
+It also demonstrates the potential of **physiological sensing (fNIRS)** to inform real-time adaptive recovery experiences — a step towards personalized “smart recovery” systems.
+
+---
+
+## 📸 Figure Highlight
+![Figure 11](/assets/Blog1.jpg)  
+*Timeline correlations between mental workload and recovery experiences.*
+
+---
+
+Receiving an Honorable Mention at CHI is a huge encouragement for me 🌟
+This work represents a bridge between **game research**, **cognitive neuroscience**, and **workplace well-being** — and I’m incredibly grateful to my co-authors and supervisors for their support along the way.
+
+👉 [Read the full paper here](https://doi.org/10.1145/3706598.3713915)
+
+---
+
+✍️ _Posted on October 5, 2025_
+
