@@ -1,5 +1,5 @@
-title: "你的站点标题"
-description: "博客 · 科研进展 · 项目"
+title: "Home"
+description: "Blog · Research · Projects"
 url: "https://linqi727.github.io"
 baseurl: "/linqizhao.github.io"
 
@@ -28,12 +28,12 @@ minimal_mistakes_skin: default
 search: true
 
 author:
-  name: 你的名字
-  bio: 研究方向 / 兴趣
+  name: Linqi Zhao 麟琪
+  bio: Human Computer Interaction / Game · fNIRS · PX
   links:
     - label: GitHub
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao"
 
 defaults:
   - scope:
