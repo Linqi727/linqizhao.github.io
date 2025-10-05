@@ -29,9 +29,31 @@ search: true
 
 author:
   name: "Linqi Zhao 麟琪"
-  bio: "Human Computer Interaction / Game · fNIRS · PX"
   uri: "https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao"
+  bio: |
+    Human Computer Interaction / Game · fNIRS · PX
+
+    <hr>
+
+    <strong>2014–2018</strong> Sichuan University<br>
+    Undergraduate Industrial Design<br>
+    Supervisor: Dr Hao Wu<br><br>
+
+    <strong>2018–2019</strong> Kuka Group<br>
+    Furniture Designer<br><br>
+
+    <strong>2020–2023</strong> Shandong University<br>
+    Masters in Design<br>
+    Supervisor: Dr Zhenya Wang<br><br>
+
+    <strong>2023–</strong> University of Nottingham<br>
+    PhD in Computer Science<br>
+    Supervisors: Dr Horia A Maior, Dr Max L. Wilson, Dr Patrick Dickinson
+
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Linqi727"
