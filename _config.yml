@@ -6,7 +6,7 @@ baseurl: "/linqizhao.github.io"
 # 使用本地主题（替代 remote_theme）
 remote_theme: "mmistakes/minimal-mistakes"
 
-locale: zh-CN
+locale: en-GB
 repository: yourusername/yourrepo
 
 collections:
