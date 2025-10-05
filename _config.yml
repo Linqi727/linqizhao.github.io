@@ -28,12 +28,13 @@ minimal_mistakes_skin: default
 search: true
 
 author:
-  name: Linqi Zhao 麟琪
-  bio: Human Computer Interaction / Game · fNIRS · PX
+  name: "Linqi Zhao 麟琪"
+  bio: "Human Computer Interaction / Game · fNIRS · PX"
+  uri: "https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao"
   links:
-    - label: GitHub
+    - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao"
+      url: "https://github.com/Linqi727"
 
 defaults:
   - scope:
