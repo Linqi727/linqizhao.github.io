@@ -6,7 +6,7 @@ categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
 header:
-  teaser: /assets/Blog1.jpg
+  teaser: /assets/Blog1-teaser.jpg
 ---
 
 I am thrilled to share that our paper  
@@ -49,12 +49,6 @@ Participants alternated between high/low work tasks and high/low gameplay demand
 ## 🏆 Why It Matters
 This study contributes to a better understanding of how mentally demanding leisure activities (like challenging games) can **restore cognitive resources** and help people recover more effectively.  
 It also demonstrates the potential of **physiological sensing (fNIRS)** to inform real-time adaptive recovery experiences — a step towards personalized “smart recovery” systems.
-
----
-
-## 📸 Figure Highlight
-<img src="/assets/Blog1.jpg" alt="Figure 11" style="max-width:100%; height:auto; border-radius:8px;">
-*Timeline correlations between mental workload and recovery experiences.*
 
 ---
 
