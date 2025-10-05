@@ -7,6 +7,10 @@ tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
 header:
   teaser: /assets/Blog1-teaser.jpg
+excerpt: |
+  <img src="/assets/Blog1-teaser.jpg" alt="Figure 11"
+       style="max-width:100%; height:auto; border-radius:8px; margin-bottom:8px;">
+  Our CHI 2025 paper received an **Honorable Mention**!
 ---
 
 I am thrilled to share that our paper  
