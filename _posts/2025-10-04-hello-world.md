@@ -6,7 +6,7 @@ categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
 
-image: /linqizhao.github.io/assets/Blog1-teaser.jpg
+image: /assets/Blog1-teaser.jpg
 ---
 
 <p>
