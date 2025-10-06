@@ -7,7 +7,7 @@ baseurl: "/linqizhao.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 
 locale: en-GB
-repository: yourusername/yourrepo
+repository: Linqi727/linqizhao.github.io
 
 collections:
   projects:
