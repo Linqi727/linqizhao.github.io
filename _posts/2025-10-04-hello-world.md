@@ -7,6 +7,10 @@ tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
 
 image: /assets/Blog1-teaser.jpg
+excerpt: >-
+  Our CHI 2025 paper received an Honorable Mention 🏅. We show that
+  cognitively demanding gameplay can support recovery after high mental
+  workload tasks, combining self-report and fNIRS evidence.
 ---
 
 <p>
