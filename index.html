@@ -17,11 +17,15 @@ classes: wide
           <div class="card-title">{{ post.title }}</div>
         </a>
         <div class="meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-        {% if post.excerpt %}
-          <p class="excerpt">
-            {{ post.excerpt | strip_html | truncate: 120 }}
-          </p>
+
+        {% assign summary = post.excerpt %}
+        {% if summary == nil or summary == '' %}
+          {% assign summary = post.content | markdownify | strip_html %}
         {% endif %}
+        {% if summary %}
+          <p class="excerpt">{{ summary | truncate: 120 }}</p>
+        {% endif %}
+
       </article>
     {% endfor %}
   </div>
@@ -54,6 +58,7 @@ classes: wide
   font-size: .9em;
   color: #555;
   line-height: 1.4;
+  margin-top: 4px;
 }
 </style>
 
