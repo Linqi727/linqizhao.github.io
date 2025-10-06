@@ -17,15 +17,9 @@ classes: wide
           <div class="card-title">{{ post.title }}</div>
         </a>
         <div class="meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-
-        {% assign summary = post.excerpt %}
-        {% if summary == nil or summary == '' %}
-          {% assign summary = post.content | markdownify | strip_html %}
+        {% if post.excerpt %}
+          <p class="excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
         {% endif %}
-        {% if summary %}
-          <p class="excerpt">{{ summary | truncate: 120 }}</p>
-        {% endif %}
-
       </article>
     {% endfor %}
   </div>
@@ -33,32 +27,10 @@ classes: wide
 
 <style>
 .mm-recent-grid { margin-bottom: 2rem; }
-.mm-recent-grid .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 16px;
-}
-.mm-recent-grid img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 10px;
-}
-.mm-recent-grid .card-title {
-  margin-top: 8px;
-  font-weight: 600;
-  line-height: 1.3;
-}
-.mm-recent-grid .meta {
-  font-size: .9em;
-  color: #999;
-  margin-bottom: 4px;
-}
-.mm-recent-grid .excerpt {
-  font-size: .9em;
-  color: #555;
-  line-height: 1.4;
-  margin-top: 4px;
-}
+.mm-recent-grid .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:16px; }
+.mm-recent-grid img { width:100%; height:auto; display:block; border-radius:10px; }
+.mm-recent-grid .card-title { margin-top:8px; font-weight:600; line-height:1.3; }
+.mm-recent-grid .meta { font-size:.9em; color:#999; margin-bottom:4px; }
+.mm-recent-grid .excerpt { font-size:.9em; color:#555; line-height:1.4; margin-top:4px; }
 </style>
 
