@@ -6,8 +6,13 @@ categories: [research, awards]
 tags: [CHI2025, honorable-mention, hci, fNIRS, gameplay, recovery]
 author_profile: true
 
-image: "{{ '/assets/Blog1-teaser.jpg' | relative_url }}"
+image: /linqizhao.github.io/assets/Blog1-teaser.jpg
 ---
+
+<p>
+  <img src="/linqizhao.github.io/assets/Blog1-teaser.jpg" alt="Figure 11"
+       style="max-width:100%; height:auto; border-radius:8px; margin-bottom:8px;">
+</p>
 
 I am thrilled to share that our paper  
 **“Work Hard, Play Harder: Intense Games Enable Recovery from High Mental Workload Tasks”**  
