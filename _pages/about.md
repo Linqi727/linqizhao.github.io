@@ -1,6 +1,30 @@
 ---
+title: "About Me"
 permalink: /about/
-title: About me
+layout: single
+author_profile: true
 ---
 
-这里写一段自我介绍：研究方向、教育/工作背景、当前关注的问题。可以插入链接到 [项目](/projects/) 和 [GitHub](https://github.com/yourusername)。
+## Hi, I'm Linqi Zhao
+
+I'm a PhD researcher at the University of Nottingham, working in the field of **Human-Computer Interaction (HCI)**, with a focus on **game-based cognitive recovery**, **neuroimaging (fNIRS)**, and **player experience (PX)**.  
+I have a cross-disciplinary background in **industrial design**, **collaborative design research**, and **game experiments**, and my research bridges design practice with computational methods.
+
+---
+
+## Research Interests
+
+- Human-Computer Interaction & Neuroadaptive Interfaces  
+- Game-based cognitive recovery  
+- fNIRS & physiological sensing  
+- Cross-disciplinary design research  
+- Collaborative behaviour in VR environments
+
+---
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao)  
+- [GitHub](https://github.com/Linqi727)  
+- Contact: `linqi.zhao@nottingham.ac.uk`
+
