@@ -26,5 +26,5 @@ I have a cross-disciplinary background in **industrial design**, **collaborative
 
 - [Google Scholar](https://scholar.google.com/citations?user=qX8hUqQAAAAJ&hl=zh-CN&oi=ao)  
 - [GitHub](https://github.com/Linqi727)  
-- Contact: `linqi.zhao@nottingham.ac.uk`
+- ✉️ [linqi.zhao@nottingham.ac.uk](mailto:linqi.zhao@nottingham.ac.uk)
 
